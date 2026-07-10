@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0215-kth-largest-element-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumitkr885/DSA-Series/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sumitkr885/DSA-Series/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
