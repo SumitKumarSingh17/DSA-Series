@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Sumitkr885/DSA-Series/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sumitkr885/DSA-Series/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sumitkr885/DSA-Series/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Sumitkr885/DSA-Series/tree/master/0292-nim-game) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0215-kth-largest-element-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumitkr885/DSA-Series/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
@@ -85,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
