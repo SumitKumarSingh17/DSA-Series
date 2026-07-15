@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Sumitkr885/DSA-Series/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Sumitkr885/DSA-Series/tree/master/1025-divisor-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sumitkr885/DSA-Series/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sumitkr885/DSA-Series/tree/master/0283-move-zeroes) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sumitkr885/DSA-Series/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
