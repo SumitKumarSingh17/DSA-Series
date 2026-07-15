@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sumitkr885/DSA-Series/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Sumitkr885/DSA-Series/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Sumitkr885/DSA-Series/tree/master/1025-divisor-game) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sumitkr885/DSA-Series/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Sumitkr885/DSA-Series/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sumitkr885/DSA-Series/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumitkr885/DSA-Series/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sumitkr885/DSA-Series/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sumitkr885/DSA-Series/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
