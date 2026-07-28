@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sumitkr885/DSA-Series/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sumitkr885/DSA-Series/tree/master/0485-max-consecutive-ones) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sumitkr885/DSA-Series/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumitkr885/DSA-Series/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -132,5 +133,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/1380-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
