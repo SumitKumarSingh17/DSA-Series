@@ -1,14 +1,44 @@
 class Solution {
 public:
     bool isToeplitzMatrix(vector<vector<int>>& matrix) {
-        int m= matrix.size();
-        int n = matrix[0].size();
-        for(int i=1 ;i < m ;i++){
-            for(int j=1 ;j < n ; j++){
-                if(matrix[i][j]!=matrix[i-1][j-1])
-                return false;
-            }
-        }
-    return true;
+
+       int n=matrix.size();
+       int m=matrix[0].size();
+
+
+       //first row se diagonals
+       for(int j=0;j<m;j++){
+           int val=matrix[0][j];
+           int i=0,col=j;
+
+
+           while(i<n&&col<m){
+               if(matrix[i][col]!=val){
+                   return false;
+               }
+               i++;
+               col++;
+           }
+       }
+
+
+       //first column se diagonals
+       for(int i=1;i<n;i++){
+           int val=matrix[i][0];
+           int row=i,j=0;
+
+
+           while(row<n&&j<m){
+               if(matrix[row][j]!=val){
+                   return false;
+               }
+               row++;
+               j++;
+           }
+       }
+
+
+       return true;
+
     }
 };
