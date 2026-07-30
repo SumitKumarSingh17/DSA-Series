@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sumitkr885/DSA-Series/tree/master/0067-add-binary) |
 ## Array
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sumitkr885/DSA-Series/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Sumitkr885/DSA-Series/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0189-rotate-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/0054-spiral-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/1380-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
