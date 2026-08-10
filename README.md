@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumitkr885/DSA-Series/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sumitkr885/DSA-Series/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sumitkr885/DSA-Series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/3731-find-missing-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sumitkr885/DSA-Series/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sumitkr885/DSA-Series/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Sumitkr885/DSA-Series/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
