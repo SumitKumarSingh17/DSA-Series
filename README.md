@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sumitkr885/DSA-Series/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sumitkr885/DSA-Series/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Sumitkr885/DSA-Series/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Sumitkr885/DSA-Series/tree/master/0292-nim-game) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sumitkr885/DSA-Series/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Sumitkr885/DSA-Series/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/0867-transpose-matrix) |
 ## Array
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sumitkr885/DSA-Series/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Sumitkr885/DSA-Series/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sumitkr885/DSA-Series/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
