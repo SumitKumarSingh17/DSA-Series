@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sumitkr885/DSA-Series/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2427-number-of-common-factors](https://github.com/Sumitkr885/DSA-Series/tree/master/2427-number-of-common-factors) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sumitkr885/DSA-Series/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Sumitkr885/DSA-Series/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sumitkr885/DSA-Series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sumitkr885/DSA-Series/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumitkr885/DSA-Series/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sumitkr885/DSA-Series/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Sumitkr885/DSA-Series/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sumitkr885/DSA-Series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sumitkr885/DSA-Series/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Sumitkr885/DSA-Series/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/Sumitkr885/DSA-Series/tree/master/2427-number-of-common-factors) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Sumitkr885/DSA-Series/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sumitkr885/DSA-Series/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
