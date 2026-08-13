@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sumitkr885/DSA-Series/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/Sumitkr885/DSA-Series/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Sumitkr885/DSA-Series/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Sumitkr885/DSA-Series/tree/master/1025-divisor-game) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sumitkr885/DSA-Series/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/Sumitkr885/DSA-Series/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sumitkr885/DSA-Series/tree/master/0204-count-primes) |
