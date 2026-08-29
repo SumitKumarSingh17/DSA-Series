@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Sumitkr885/DSA-Series/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumitkr885/DSA-Series/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sumitkr885/DSA-Series/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Sumitkr885/DSA-Series/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sumitkr885/DSA-Series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sumitkr885/DSA-Series/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Sumitkr885/DSA-Series/tree/master/0182-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Sumitkr885/DSA-Series/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/Sumitkr885/DSA-Series/tree/master/0577-employee-bonus) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
