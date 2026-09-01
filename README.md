@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Sumitkr885/DSA-Series/tree/master/0237-delete-node-in-a-linked-list) |
 ## Quicksort
 |  |
 | ------- |
