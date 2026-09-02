@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Sumitkr885/DSA-Series/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Sumitkr885/DSA-Series/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sumitkr885/DSA-Series/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0189-rotate-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sumitkr885/DSA-Series/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Sumitkr885/DSA-Series/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sumitkr885/DSA-Series/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sumitkr885/DSA-Series/tree/master/0125-valid-palindrome) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumitkr885/DSA-Series/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Sumitkr885/DSA-Series/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Sumitkr885/DSA-Series/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sumitkr885/DSA-Series/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
