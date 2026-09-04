@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sumitkr885/DSA-Series/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sumitkr885/DSA-Series/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/0867-transpose-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Sumitkr885/DSA-Series/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Array
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Sumitkr885/DSA-Series/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumitkr885/DSA-Series/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Sumitkr885/DSA-Series/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sumitkr885/DSA-Series/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Sumitkr885/DSA-Series/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sumitkr885/DSA-Series/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sumitkr885/DSA-Series/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Sumitkr885/DSA-Series/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
 | ------- |
