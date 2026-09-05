@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Sumitkr885/DSA-Series/tree/master/0877-stone-game) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sumitkr885/DSA-Series/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sumitkr885/DSA-Series/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sumitkr885/DSA-Series/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sumitkr885/DSA-Series/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sumitkr885/DSA-Series/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sumitkr885/DSA-Series/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sumitkr885/DSA-Series/tree/master/0283-move-zeroes) |
+| [0922-sort-array-by-parity-ii](https://github.com/Sumitkr885/DSA-Series/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sumitkr885/DSA-Series/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/Sumitkr885/DSA-Series/tree/master/2540-minimum-common-value) |
 ## Number Theory
