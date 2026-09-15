@@ -7,11 +7,11 @@ public:
             small=min(small,nums[i]);
             large=max(large, nums[i]);
         }
-        while(large!=0){
-            int temp=large;
-            large=small%large;
-            small=temp;
+        for(int i=small; i>=1; i--){
+            if(small%i==0 && large%i==0){
+                return i;
+            }
         }
-        return small;
+        return 1;
     }
 };
