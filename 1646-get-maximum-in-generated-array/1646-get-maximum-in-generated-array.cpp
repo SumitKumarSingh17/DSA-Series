@@ -6,11 +6,14 @@ public:
         nums[0]=0, nums[1]=1;
         int maxi=1;
         for(int i=1; 2*i<=n; i++){
-            if(2*i<=n) nums[2*i]=nums[i];
-            if(2*i+1<=n) nums[2*i+1]=nums[i]+nums[i+1];
-        }
-        for(int i=0; i<=n; i++){
-            maxi=max(maxi,nums[i]);
+            if(2*i<=n){
+                nums[2*i]=nums[i];
+                maxi=max(maxi, nums[2*i]);
+            } 
+            if(2*i+1<=n){
+                nums[2*i+1]=nums[i]+nums[i+1];
+                maxi=max(maxi,nums[2*i+1]);
+            }
         }
         return maxi;
     }
