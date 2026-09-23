@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sumitkr885/DSA-Series/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sumitkr885/DSA-Series/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Sumitkr885/DSA-Series/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sumitkr885/DSA-Series/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumitkr885/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Sumitkr885/DSA-Series/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Sumitkr885/DSA-Series/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sumitkr885/DSA-Series/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/0766-toeplitz-matrix) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sumitkr885/DSA-Series/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Sumitkr885/DSA-Series/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sumitkr885/DSA-Series/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sumitkr885/DSA-Series/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sumitkr885/DSA-Series/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumitkr885/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Sumitkr885/DSA-Series/tree/master/0645-set-mismatch) |
 | [2540-minimum-common-value](https://github.com/Sumitkr885/DSA-Series/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/3731-find-missing-elements) |
 ## Enumeration
