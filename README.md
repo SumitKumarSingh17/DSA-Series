@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sumitkr885/DSA-Series/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Sumitkr885/DSA-Series/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Sumitkr885/DSA-Series/tree/master/0645-set-mismatch) |
 ## Simulation
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sumitkr885/DSA-Series/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sumitkr885/DSA-Series/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sumitkr885/DSA-Series/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumitkr885/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sumitkr885/DSA-Series/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumitkr885/DSA-Series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Sumitkr885/DSA-Series/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Sumitkr885/DSA-Series/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumitkr885/DSA-Series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sumitkr885/DSA-Series/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sumitkr885/DSA-Series/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Sumitkr885/DSA-Series/tree/master/0392-is-subsequence) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sumitkr885/DSA-Series/tree/master/0922-sort-array-by-parity-ii) |
@@ -357,4 +361,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumitkr885/DSA-Series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
