@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sumitkr885/DSA-Series/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sumitkr885/DSA-Series/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/Sumitkr885/DSA-Series/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitkr885/DSA-Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sumitkr885/DSA-Series/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Sumitkr885/DSA-Series/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Sumitkr885/DSA-Series/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sumitkr885/DSA-Series/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Sumitkr885/DSA-Series/tree/master/0075-sort-colors) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sumitkr885/DSA-Series/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumitkr885/DSA-Series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sumitkr885/DSA-Series/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Sumitkr885/DSA-Series/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sumitkr885/DSA-Series/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sumitkr885/DSA-Series/tree/master/0125-valid-palindrome) |
@@ -378,4 +381,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sumitkr885/DSA-Series/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sumitkr885/DSA-Series/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
