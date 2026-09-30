@@ -14,17 +14,12 @@ public:
         while(head!=NULL && head->val==val){
             head=head->next;
         }
-        ListNode* curr=head;
-        ListNode* prev=NULL;
-        while(curr!=NULL){
-            if(curr->val==val){
-                prev->next=curr->next;
-                curr=curr->next;
+        ListNode* temp=head;
+        while(temp!=NULL && temp->next!=NULL){
+            if(temp->next->val==val){
+                temp->next=temp->next->next;
             }
-            else{
-                prev=curr;
-                curr=curr->next; 
-            }
+            else temp=temp->next;
         }
         return head;
     }
