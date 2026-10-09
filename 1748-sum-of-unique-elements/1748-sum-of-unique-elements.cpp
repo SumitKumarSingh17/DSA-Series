@@ -2,15 +2,15 @@ class Solution {
 public:
     int sumOfUnique(vector<int>& nums) {
         int sum=0;
-        vector<int> v;
-        sort(nums.begin(), nums.end());
+        int freq[101]={0};
         for(int i=0; i<nums.size(); i++){
-            if(i>0 && nums[i]==nums[i-1]) continue; 
-            if(i<nums.size()-1 && nums[i]==nums[i+1]) continue;
-            else v.push_back(nums[i]);
+            freq[nums[i]]++;
         }
-        for(int i=0; i<v.size(); i++){
-            sum+=v[i];
+        for(int i=0; i<nums.size(); i++){ 
+            if(freq[nums[i]]==1){ 
+                sum+=nums[i]; 
+                freq[nums[i]]=0; 
+            } 
         }
         return sum;
     }
