@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Sumitkr885/DSA-Series/tree/master/1539-kth-missing-positive-number) |
 | [1646-get-maximum-in-generated-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1646-get-maximum-in-generated-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sumitkr885/DSA-Series/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumitkr885/DSA-Series/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumitkr885/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Sumitkr885/DSA-Series/tree/master/0645-set-mismatch) |
+| [1748-sum-of-unique-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/Sumitkr885/DSA-Series/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sumitkr885/DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/3731-find-missing-elements) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sumitkr885/DSA-Series/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Sumitkr885/DSA-Series/tree/master/0383-ransom-note) |
+| [1748-sum-of-unique-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/1748-sum-of-unique-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
