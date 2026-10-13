@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sumitkr885/DSA-Series/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sumitkr885/DSA-Series/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Sumitkr885/DSA-Series/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sumitkr885/DSA-Series/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0287-find-the-duplicate-number) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sumitkr885/DSA-Series/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Sumitkr885/DSA-Series/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumitkr885/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sumitkr885/DSA-Series/tree/master/0724-find-pivot-index) |
