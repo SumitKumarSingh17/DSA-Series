@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Sumitkr885/DSA-Series/tree/master/2427-number-of-common-factors) |
 | [2739-total-distance-traveled](https://github.com/Sumitkr885/DSA-Series/tree/master/2739-total-distance-traveled) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sumitkr885/DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sumitkr885/DSA-Series/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sumitkr885/DSA-Series/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Sumitkr885/DSA-Series/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sumitkr885/DSA-Series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Sumitkr885/DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
 | [3028-ant-on-the-boundary](https://github.com/Sumitkr885/DSA-Series/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Sumitkr885/DSA-Series/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sumitkr885/DSA-Series/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sumitkr885/DSA-Series/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Sumitkr885/DSA-Series/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sumitkr885/DSA-Series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
