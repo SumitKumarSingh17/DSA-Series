@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/Sumitkr885/DSA-Series/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sumitkr885/DSA-Series/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/Sumitkr885/DSA-Series/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Sumitkr885/DSA-Series/tree/master/2427-number-of-common-factors) |
 | [2739-total-distance-traveled](https://github.com/Sumitkr885/DSA-Series/tree/master/2739-total-distance-traveled) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sumitkr885/DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
