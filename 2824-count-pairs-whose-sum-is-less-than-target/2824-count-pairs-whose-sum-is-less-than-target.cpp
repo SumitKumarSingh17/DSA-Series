@@ -6,7 +6,7 @@ public:
         int cnt=0;
         while(i<j){
             if(nums[i]+nums[j]<target){
-                cnt+=j-i;
+                cnt+=j-i;  //This is done bcz array is sorted so if i and j element sum is less than the target so all number between them has less sum value so it count in one go.
                 i++;
             }
             else j--;
