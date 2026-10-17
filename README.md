@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Sumitkr885/DSA-Series/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Sumitkr885/DSA-Series/tree/master/2427-number-of-common-factors) |
+| [2469-convert-the-temperature](https://github.com/Sumitkr885/DSA-Series/tree/master/2469-convert-the-temperature) |
 | [2739-total-distance-traveled](https://github.com/Sumitkr885/DSA-Series/tree/master/2739-total-distance-traveled) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sumitkr885/DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sumitkr885/DSA-Series/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
