@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sumitkr885/DSA-Series/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sumitkr885/DSA-Series/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Sumitkr885/DSA-Series/tree/master/0412-fizz-buzz) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Sumitkr885/DSA-Series/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/0867-transpose-matrix) |
 | [1103-distribute-candies-to-people](https://github.com/Sumitkr885/DSA-Series/tree/master/1103-distribute-candies-to-people) |
 | [1646-get-maximum-in-generated-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1646-get-maximum-in-generated-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Sumitkr885/DSA-Series/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sumitkr885/DSA-Series/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2460-apply-operations-to-an-array) |
 | [2739-total-distance-traveled](https://github.com/Sumitkr885/DSA-Series/tree/master/2739-total-distance-traveled) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumitkr885/DSA-Series/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1991-find-the-middle-index-in-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Sumitkr885/DSA-Series/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sumitkr885/DSA-Series/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Sumitkr885/DSA-Series/tree/master/2164-sort-even-and-odd-indices-independently) |
