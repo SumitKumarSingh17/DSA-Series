@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sumitkr885/DSA-Series/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Sumitkr885/DSA-Series/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sumitkr885/DSA-Series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3668-restore-finishing-order](https://github.com/Sumitkr885/DSA-Series/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Sumitkr885/DSA-Series/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sumitkr885/DSA-Series/tree/master/3875-construct-uniform-parity-array-i) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/Sumitkr885/DSA-Series/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sumitkr885/DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
+| [3668-restore-finishing-order](https://github.com/Sumitkr885/DSA-Series/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
