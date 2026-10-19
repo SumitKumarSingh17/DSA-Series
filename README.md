@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Sumitkr885/DSA-Series/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Sumitkr885/DSA-Series/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/Sumitkr885/DSA-Series/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sumitkr885/DSA-Series/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sumitkr885/DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sumitkr885/DSA-Series/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Sumitkr885/DSA-Series/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/Sumitkr885/DSA-Series/tree/master/3028-ant-on-the-boundary) |
 ## Minimax
 |  |
