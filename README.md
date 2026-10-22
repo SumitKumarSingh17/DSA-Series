@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Sumitkr885/DSA-Series/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Sumitkr885/DSA-Series/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Sumitkr885/DSA-Series/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Sumitkr885/DSA-Series/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Sumitkr885/DSA-Series/tree/master/2469-convert-the-temperature) |
 | [2739-total-distance-traveled](https://github.com/Sumitkr885/DSA-Series/tree/master/2739-total-distance-traveled) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sumitkr885/DSA-Series/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Sumitkr885/DSA-Series/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/Sumitkr885/DSA-Series/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Sumitkr885/DSA-Series/tree/master/2427-number-of-common-factors) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Sumitkr885/DSA-Series/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sumitkr885/DSA-Series/tree/master/3658-gcd-of-odd-and-even-sums) |
