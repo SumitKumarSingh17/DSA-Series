@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Sumitkr885/DSA-Series/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Sumitkr885/DSA-Series/tree/master/0645-set-mismatch) |
+| [1720-decode-xored-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Sumitkr885/DSA-Series/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Simulation
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Sumitkr885/DSA-Series/tree/master/1539-kth-missing-positive-number) |
 | [1646-get-maximum-in-generated-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1646-get-maximum-in-generated-array) |
 | [1672-richest-customer-wealth](https://github.com/Sumitkr885/DSA-Series/tree/master/1672-richest-customer-wealth) |
+| [1720-decode-xored-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sumitkr885/DSA-Series/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sumitkr885/DSA-Series/tree/master/1752-check-if-array-is-sorted-and-rotated) |
