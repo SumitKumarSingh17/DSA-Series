@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/Sumitkr885/DSA-Series/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Sumitkr885/DSA-Series/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sumitkr885/DSA-Series/tree/master/3875-construct-uniform-parity-array-i) |
+| [3945-digit-frequency-score](https://github.com/Sumitkr885/DSA-Series/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Sumitkr885/DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
 | [3668-restore-finishing-order](https://github.com/Sumitkr885/DSA-Series/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/Sumitkr885/DSA-Series/tree/master/3945-digit-frequency-score) |
 ## Enumeration
 |  |
 | ------- |
