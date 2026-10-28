@@ -1,13 +1,13 @@
 class Solution {
 public:
     int numJewelsInStones(string jewels, string stones) {
-        int m=jewels.size();
-        int n=stones.size();
+        int freq[128]={0};
         int cnt=0;
-        for(int i=0; i<m; i++){
-            for(int j=0; j<n; j++){
-                if(jewels[i]==stones[j]) cnt++;
-            }
+        for(int i=0; i<jewels.size(); i++){
+            freq[jewels[i]]++;
+        }
+        for(int i=0; i<stones.size(); i++){
+            if(freq[stones[i]]==1) cnt++;
         }
         return cnt;
     }
