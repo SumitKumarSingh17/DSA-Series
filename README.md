@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sumitkr885/DSA-Series/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sumitkr885/DSA-Series/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sumitkr885/DSA-Series/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Sumitkr885/DSA-Series/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2460-apply-operations-to-an-array) |
 | [2739-total-distance-traveled](https://github.com/Sumitkr885/DSA-Series/tree/master/2739-total-distance-traveled) |
 | [3028-ant-on-the-boundary](https://github.com/Sumitkr885/DSA-Series/tree/master/3028-ant-on-the-boundary) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Sumitkr885/DSA-Series/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sumitkr885/DSA-Series/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sumitkr885/DSA-Series/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Sumitkr885/DSA-Series/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Quicksort
 |  |
 | ------- |
