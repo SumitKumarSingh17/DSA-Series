@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sumitkr885/DSA-Series/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumitkr885/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Sumitkr885/DSA-Series/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Sumitkr885/DSA-Series/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sumitkr885/DSA-Series/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Sumitkr885/DSA-Series/tree/master/0704-binary-search) |
@@ -523,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sumitkr885/DSA-Series/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Sumitkr885/DSA-Series/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
