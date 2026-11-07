@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sumitkr885/DSA-Series/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sumitkr885/DSA-Series/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2460-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2553-separate-the-digits-in-an-array) |
 | [2739-total-distance-traveled](https://github.com/Sumitkr885/DSA-Series/tree/master/2739-total-distance-traveled) |
 | [3028-ant-on-the-boundary](https://github.com/Sumitkr885/DSA-Series/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/Sumitkr885/DSA-Series/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Sumitkr885/DSA-Series/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2460-apply-operations-to-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Sumitkr885/DSA-Series/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Sumitkr885/DSA-Series/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Sumitkr885/DSA-Series/tree/master/2798-number-of-employees-who-met-the-target) |
