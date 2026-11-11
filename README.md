@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sumitkr885/DSA-Series/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Sumitkr885/DSA-Series/tree/master/0877-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/Sumitkr885/DSA-Series/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/Sumitkr885/DSA-Series/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/Sumitkr885/DSA-Series/tree/master/1103-distribute-candies-to-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sumitkr885/DSA-Series/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Sumitkr885/DSA-Series/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Sumitkr885/DSA-Series/tree/master/0877-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sumitkr885/DSA-Series/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/Sumitkr885/DSA-Series/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sumitkr885/DSA-Series/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Sumitkr885/DSA-Series/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Sumitkr885/DSA-Series/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sumitkr885/DSA-Series/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sumitkr885/DSA-Series/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/Sumitkr885/DSA-Series/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumitkr885/DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sumitkr885/DSA-Series/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumitkr885/DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sumitkr885/DSA-Series/tree/master/0075-sort-colors) |
+| [0976-largest-perimeter-triangle](https://github.com/Sumitkr885/DSA-Series/tree/master/0976-largest-perimeter-triangle) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sumitkr885/DSA-Series/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sumitkr885/DSA-Series/tree/master/0011-container-with-most-water) |
+| [0976-largest-perimeter-triangle](https://github.com/Sumitkr885/DSA-Series/tree/master/0976-largest-perimeter-triangle) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Sumitkr885/DSA-Series/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String Matching
 |  |
@@ -538,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sumitkr885/DSA-Series/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sumitkr885/DSA-Series/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Sumitkr885/DSA-Series/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
