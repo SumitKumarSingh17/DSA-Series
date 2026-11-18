@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/Sumitkr885/DSA-Series/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sumitkr885/DSA-Series/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sumitkr885/DSA-Series/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sumitkr885/DSA-Series/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Sumitkr885/DSA-Series/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Sumitkr885/DSA-Series/tree/master/3925-concatenate-array-with-reverse) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sumitkr885/DSA-Series/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Sumitkr885/DSA-Series/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Sumitkr885/DSA-Series/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sumitkr885/DSA-Series/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Sumitkr885/DSA-Series/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Sumitkr885/DSA-Series/tree/master/3945-digit-frequency-score) |
 ## Enumeration
